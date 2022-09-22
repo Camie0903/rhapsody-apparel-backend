@@ -19,5 +19,17 @@
     "mysql": "^2.18.1",
     "node": "^18.9.0",
     "nodemon": "^2.0.20"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Camie0903/rhapsody-apparel-backend"
+  },
+  "bugs": {
+    "url": "https://github.com/Camie0903/rhapsody-apparel-backend/issues"
+  },
+  "homepage": "https://github.com/Camie0903/rhapsody-apparel-backend#readme",
+  "description": ""
 }
